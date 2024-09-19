@@ -1,5 +1,6 @@
 ## En este script se hace la extraccion de los valores para cada punto (registros de presencia
 # y generados en el muestreo aleatorio)
+#Este script fue escrito por Juan Carlos Valdes como parte de la investigación de descortezadores
 library(raster)
 library(sf)
 library(dplyr)
