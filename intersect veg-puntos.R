@@ -1,4 +1,5 @@
 #script para identificar los tipos de vegetacion en los diferentes puntos espaciales
+#Este script fue escrito por Juan Carlos Valdés como parte de la investigación de descortezadores
 library(sf)
 
 # Cargar los archivos
