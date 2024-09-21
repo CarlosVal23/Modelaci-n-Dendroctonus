@@ -3,8 +3,8 @@ Scripts utilizados para analizar los datos de las variables ambientales como par
 
 En la investigación se nombran como Apéndices y el orden para cada archivo es el siguiente:
 
-- Apéndice A -> Extract de todo
-              En este archivo se extraen los datos de número de incendios, temperatura promedio y elevación. Los datos de precipitación se ontienen en el archivo "PP extract.R".
+- Apéndice A -> Extract de todo:
+              En este archivo se extraen los datos de número de incendios, temperatura promedio y elevación. Los datos de precipitación se obtienen en el archivo "PP extract.R".
 
 - Apéndice B -> Intersect veg-puntos
               En este archivo se identifican los tipos de vegetacion presentes en cada registro de presencia de Dendroctonus.
