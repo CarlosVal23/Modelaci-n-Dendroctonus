@@ -1,5 +1,6 @@
 # Apédices
-Scripts utilizados para analizar los datos de las variables ambientales como parte de la investigación de Modelación de Dendroctonus
+Scripts utilizados para analizar los datos de las variables ambientales como parte de la investigación de Modelación de Dendroctonus.
+
 En la investigación se nombran como Apéndices y el orden para cada archivo es el siguiente:
 
 - Apéndice A -> Extract de todo
